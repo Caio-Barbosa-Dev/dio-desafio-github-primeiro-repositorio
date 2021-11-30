@@ -1,0 +1,2 @@
+Algumas estruturas de dados para processos mais complexos
+Já havia feito esse seção em outro curso
